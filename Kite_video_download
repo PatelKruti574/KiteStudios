@@ -4,11 +4,11 @@
    "onback_adshow":"1",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
-      "app_adShowStatus":""
+      "app_adShowStatus":"1"
    },
    "PLACEMENT":{
       "Admob":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
           "AppID":" ",
          "Banner1":" ",
          "Interstitial1":" ",
